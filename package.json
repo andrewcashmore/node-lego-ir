@@ -1,5 +1,5 @@
 {
-  "name": "LegoIR",
+  "name": "lego-ir",
   "version": "1.0.0",
   "description": "Infrared buffers to control LEGO Power Functions",
   "main": "index.js",
