@@ -11,11 +11,11 @@
     "url": "https://github.com/andrewcashmore/node-lego-ir.git"
   },
   "keywords": [
-    "['LEGO'",
-    "'Power'",
-    "'Functions'",
-    "'Infrared'",
-    "'IR']"
+    "LEGO",
+    "Power",
+    "Functions",
+    "Infrared",
+    "IR"
   ],
   "author": "Andrew Cashmore",
   "license": "MIT",
