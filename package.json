@@ -1,0 +1,29 @@
+{
+  "name": "LegoIR",
+  "version": "1.0.0",
+  "description": "Infrared buffers to control LEGO Power Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewcashmore/lego-ir"
+  },
+  "keywords": [
+    "['LEGO'",
+    "'Power'",
+    "'Functions'",
+    "'Infrared'",
+    "'IR']"
+  ],
+  "author": "Andrew Cashmore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewcashmore/lego-ir/issues"
+  },
+  "homepage": "https://github.com/andrewcashmore/lego-ir",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
