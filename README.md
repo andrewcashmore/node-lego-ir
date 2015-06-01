@@ -3,10 +3,12 @@
 ### What is is?
 LEGO IR is module that returns an infrared buffer. This can then be used in combination with Tessel to control LEGO Power Functions!
 
+I've only managed to test this on Tessel as it's all I have. If you want any examples adding for other hardware or have tested it on other hardware let me know! (raise an Issue or PR!).
+
 ### How do I use it?
 ```
 var lego-ir = require('lego-ir');
-var lego = new lego-ir({
+var lego = new LegoIR({
   mode: 'comboDirect',
   channel: 1
 });
@@ -52,7 +54,7 @@ lego.move({
 ```
 var tessel = require('tessel');
 var infraredlib = require('ir-attx4');
-var infrared = infraredlib.use(tessel.port['A']);  
+var infrared = infraredlib.use(tessel.port['A']);
 
 var LegoIR = require('lego-ir');
 var lego = new LegoIR({
