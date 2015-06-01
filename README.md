@@ -7,7 +7,7 @@ I've only managed to test this on Tessel as it's all I have. If you want any exa
 
 ### How do I use it?
 ```
-var lego-ir = require('lego-ir');
+var LegoIR = require('lego-ir');
 var lego = new LegoIR({
   mode: 'comboDirect',
   channel: 1
