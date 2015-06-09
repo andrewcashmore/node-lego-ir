@@ -1,5 +1,7 @@
 ## LEGO Infrared
 
+[![Join the chat at https://gitter.im/andrewcashmore/node-lego-ir](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/andrewcashmore/node-lego-ir?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### What is is?
 LEGO IR is module that returns an infrared buffer. This can then be used in combination with Tessel to control LEGO Power Functions!
 
